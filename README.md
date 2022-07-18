@@ -1,6 +1,10 @@
 # kintone hive 2022 tokyo での発表資料
 
-## 使い方
+## 発表用スライド
+発表用スライドは **[コチラ](https://github.com/AISIC-DL/kintone_hive_2022_tokyo/blob/main/doc/20220721_kintone_hive_2022_tokyo.pdf)**
+
+
+## kintoneアプリの使い方
 * template内の「連携ルックアップ.zip」をテンプレートとしてkintoneに展開。下記5アプリが展開されます。
   * 大分類マスタ
   * 中分類マスタ
@@ -8,6 +12,7 @@
   * 商品マスタ
   * 売上登録
 * data内の「大分類マスタ.csv」「中分類マスタ.csv」「小分類マスタ.csv」「商品マスタ.csv」をそれぞれのアプリに読み込ませると初期データを入れることができます。
+
 
 ## 注意事項
 * アプリやJavaScriptファイルなどはサンプルですので、そのままでの本番適用はしないようにしてください。
